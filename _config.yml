@@ -17,10 +17,10 @@ footer:
   since: 2017
 
 # Author 配置博主信息
-author: '廖柯宇'
-nickname: '悟空'
-bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
-avatar: '/assets/img/profile.png'
+author: '小飞熊'
+nickname: 'MiniFei'
+bio: '明天及未来...keke'
+avatar: '/assets/img/profile.jpg'
 
 # Search
 search: true
