@@ -15,7 +15,7 @@ This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such 
 
 ### So what is Jekyll, exactly?Permalink
 
-Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like [Markdown](https://daringfireball.net/projects/markdown/)) and our [Liquid](https://github.com/Shopify/liquid/wiki) renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
+Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like [Markdown](https://daringfireball.net/projects/markdown/)) and our [Liquid](https://github.com/Shopify/liquid/wiki) renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’	s servers for free.
 
 ### Helpful HintsPermalink
 
@@ -23,4 +23,4 @@ Throughout this guide there are a number of small-but-handy pieces of informatio
 
 ### Video Test
 
-<iframe type="text/html" width="100%" height="385" src="http://www.youtube.com/embed/gfmjMWjn-Xg" frameborder="0"></iframe>
+<iframe type="text/html" width="100%" height="385" src="http://v.youku.com/v_show/id_XMzU0MzgzNTA5Mg==.html?spm=a2hww.20027244.m_250036.5~5!2~5~5!3~5~5~A&f=51669696" frameborder="0"></iframe>
