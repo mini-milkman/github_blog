@@ -4,7 +4,7 @@ title: 'ZWKM 起落程序注意点'
 date: 2018-04-20
 author: mario
 cover: 'http://minifei-img.stor.sinaapp.com/blogimg/Free-Converter.com-airfield_traffic_pattern-24294214.png'
-tags: 航校, 飞行技, 私照
+tags: 航校 飞行技 私照
 ---
 ### 一、起飞滑跑
 #### 注意点
